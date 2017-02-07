@@ -1,0 +1,11 @@
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\bin\Debug\Fibrillation.exe
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\bin\Debug\Fibrillation.pdb
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\bin\Debug\Fibrillation.xml
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\obj\x86\Debug\Fibrillation.Resources.resources
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\obj\x86\Debug\Fibrillation.exe
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\obj\x86\Debug\Fibrillation.xml
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\obj\x86\Debug\Fibrillation.pdb
+C:\Users\Lagster\AppData\Local\Temporary Projects\Fibrillation\obj\x86\Debug\Fibrillation.frm_main.resources
