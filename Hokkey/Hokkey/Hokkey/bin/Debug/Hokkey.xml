@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hokkey
+</name>
+</assembly>
+<members>
+<member name="P:Hokkey.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:Hokkey.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="T:Hokkey.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ДостиженияDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ИгрокDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.КонтрактDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ПаспортDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ПерсоналDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.РасписаниеDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.СтатусDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Трудовой_договорDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Уровни_доступаDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Игрок_запросDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Персонал_запросDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ДостиженияRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ИгрокRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.КонтрактRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ПаспортRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ПерсоналRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.РасписаниеRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.СтатусRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Трудовой_договорRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Уровни_доступаRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Игрок_запросRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Персонал_запросRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ДостиженияRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ИгрокRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.КонтрактRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ПаспортRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.ПерсоналRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.РасписаниеRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.СтатусRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Трудовой_договорRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Уровни_доступаRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Игрок_запросRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey.Персонал_запросRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hokkey.DS_hokkey">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.ДостиженияTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.ИгрокTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.КонтрактTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.ПаспортTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.ПерсоналTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.РасписаниеTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.СтатусTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.Трудовой_договорTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.Уровни_доступаTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.Игрок_запросTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.Персонал_запросTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hokkey.DS_hokkeyTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hokkey.DS_hokkey,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hokkey.DS_hokkeyTableAdapters.TableAdapterManager.UpdateInsertedRows(Hokkey.DS_hokkey,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hokkey.DS_hokkeyTableAdapters.TableAdapterManager.UpdateDeletedRows(Hokkey.DS_hokkey,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hokkey.DS_hokkeyTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hokkey.DS_hokkeyTableAdapters.TableAdapterManager.UpdateAll(Hokkey.DS_hokkey)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hokkey.DS_hokkeyTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
