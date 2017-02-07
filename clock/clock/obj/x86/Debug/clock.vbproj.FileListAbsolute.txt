@@ -1,0 +1,42 @@
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\bin\Debug\clock.exe
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\bin\Debug\clock.pdb
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\bin\Debug\clock.xml
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.Form1.resources
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.Resources.resources
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.exe
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.xml
+c:\users\stud545\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.pdb
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\obj\x86\Debug\clock.exe
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\obj\x86\Debug\clock.xml
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\obj\x86\Debug\clock.pdb
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\bin\Debug\clock.exe
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\bin\Debug\clock.pdb
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\bin\Debug\clock.xml
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\obj\x86\Debug\clock.Form1.resources
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\obj\x86\Debug\clock.Resources.resources
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lagster\Downloads\clock(1)\clock\clock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\obj\x86\Debug\clock.exe
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\obj\x86\Debug\clock.xml
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\obj\x86\Debug\clock.pdb
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\bin\Debug\clock.exe
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\bin\Debug\clock.pdb
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\bin\Debug\clock.xml
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\obj\x86\Debug\clock.Form1.resources
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\obj\x86\Debug\clock.Resources.resources
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lagster\Documents\Visual Studio 2010\Projects\clock(1)\clock\clock\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Projects\clock\clock\obj\x86\Debug\clock.exe
+D:\Dropbox\Projects\clock\clock\obj\x86\Debug\clock.xml
+D:\Dropbox\Projects\clock\clock\obj\x86\Debug\clock.pdb
+D:\Dropbox\Projects\clock\clock\bin\Debug\clock.exe
+D:\Dropbox\Projects\clock\clock\bin\Debug\clock.pdb
+D:\Dropbox\Projects\clock\clock\bin\Debug\clock.xml
+D:\Dropbox\Projects\clock\clock\obj\x86\Debug\clock.Form1.resources
+D:\Dropbox\Projects\clock\clock\obj\x86\Debug\clock.Resources.resources
+D:\Dropbox\Projects\clock\clock\obj\x86\Debug\clock.vbproj.GenerateResource.Cache
