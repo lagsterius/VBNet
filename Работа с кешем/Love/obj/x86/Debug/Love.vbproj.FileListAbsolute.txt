@@ -1,0 +1,28 @@
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\bin\Debug\Love.exe
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\bin\Debug\Love.pdb
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\bin\Debug\Love.xml
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\Love.Form1.resources
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\Love.Resources.resources
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\Love.exe
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\Love.xml
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\Love.pdb
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\Love.Form2.resources
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\Love.Form3.resources
+C:\Users\Lagster\documents\visual studio 2010\Projects\Love\Love\obj\x86\Debug\Love.Form4.resources
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\Love.exe
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\Love.xml
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\Love.pdb
+C:\Users\Lagster\Dropbox\Projects\Love\Love\bin\Debug\Love.exe
+C:\Users\Lagster\Dropbox\Projects\Love\Love\bin\Debug\Love.pdb
+C:\Users\Lagster\Dropbox\Projects\Love\Love\bin\Debug\Love.xml
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\Love.Form1.resources
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\Love.Form2.resources
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\Love.Form3.resources
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\Love.Form4.resources
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\Love.Resources.resources
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lagster\Dropbox\Projects\Love\Love\obj\x86\Debug\GenerateResource.write.1.tlog
